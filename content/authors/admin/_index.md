@@ -2,6 +2,7 @@
 # Display name
 title: Sreeraj Ramachandran
 
+weight: 1
 # Is this the primary user of the site?
 superuser: true
 
