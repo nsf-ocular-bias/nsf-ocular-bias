@@ -61,7 +61,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Principal Investigators
-- Researchers
 ---
 
 Ajita Rattani is an Assistant Professor in the Department of Electrical Engineering and Computer Science at Wichita State University. Prior to this, she was an Adjunct Graduate Faculty at the University of Missouri - Kansas City. She did her Post-doctoral studies from the Department of Computer Science and Engineering, Michigan State University, USA. Ajita obtained her Ph.D. in Computer Science Engineering from the University of Cagliari, Italy.
