@@ -48,7 +48,7 @@ main_menu:
   enable: true
   align: r
   show_logo: true
-  show_language: false
+  show_language: true
   show_day_night: true
   show_search: true
   highlight_active_link: false
@@ -61,9 +61,9 @@ address_format: en-us
 
 # Site features
 
-highlight: false
-math: false
-diagram: false
+highlight: true
+math: true
+diagram: true
 privacy_pack: false
 show_related:
   post: true
@@ -100,7 +100,7 @@ comments:
     publication: true
     talk: true
   disqus:
-    shortname: ''
+    shortname: 'nsf-ocular-bias'
     show_count: true
   commento:
     url: ''
