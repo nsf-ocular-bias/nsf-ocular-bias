@@ -91,7 +91,7 @@ projects:
   publication_view: 2
   talk_view: 2
 comments:
-  provider: ''
+  provider: 'disqus'
   commentable:
     page: true
     post: true
