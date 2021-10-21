@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Ocular Bias (NSF Project) # Website name
+title: ocular bias (NSF Project) # Website name
 baseurl: '' # Website URL
 copyright: '© {year} VCBSL, Wichita State University' # Footer text, e.g. '© {year} Me'
 
