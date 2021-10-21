@@ -6,6 +6,6 @@ google_fonts = "family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:
 
 # Font families
 heading_font = "Josefin Slab"
-body_font = "Roboto"
+body_font = "Raleway"
 nav_font = "Raleway"
 mono_font = "Roboto Mono"
