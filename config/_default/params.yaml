@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: Mr Robot
+theme: minimal
 day_night: true
-font: native
+font: custom
 font_size: L
 
 # SEO
