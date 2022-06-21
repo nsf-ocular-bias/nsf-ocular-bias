@@ -7,3 +7,142 @@
         max-width: 760px;
     }
   }
+
+/* =============================================================================
+/* Hugo-Cite.css
+/* ----------------------------------------------------------------------------- */
+
+.hugo-cite-group {
+    display: inline-block;
+    vertical-align: baseline; /*compensate for lower height */
+    position: relative;
+    font-size: .85em; /* reduce to avoid some breaks */
+  }
+  .hugo-cite-group
+    .hugo-cite-citation {
+      visibility: hidden;
+      background-color: #ffffff;
+      color: inherit;
+      border: 1px solid currentColor;
+      padding: 1rem;
+      position: absolute;
+      width: 350px;
+      max-width: 100vw;
+      z-index: 1;
+      bottom: 140%;
+      left: 0;
+      margin-left: -50px;
+  
+      z-index: 2;
+      transition:
+        visibility 0s .3s,
+        transform .3s ease 0s,
+        opacity .3s ease 0s;
+      opacity: 0;
+      transform: translateY(-8px);
+  }
+  .hugo-cite-group:hover
+    .hugo-cite-citation {
+      visibility: visible;
+      transition: visibility 0s 0s, transform .3s, opacity .3s;
+      opacity: 1;
+      transform: translateY(0);
+  }
+  
+  /* Visually Hidden utility class */
+  .visually-hidden {
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    width: 1px;
+  }
+
+
+/* =============================================================================
+/* Plotly
+/* ----------------------------------------------------------------------------- */
+
+.plotly * {
+  margin: auto !important;
+}
+
+.cm_btns_model {
+  display: flex;
+  flex-direction: column;
+}
+
+.cm_btns_tm {
+  margin: 0 16px;
+}
+
+.cm {
+  display: flex;
+  margin: auto;
+  flex-direction: column;
+}
+
+.cm_container {
+  display: flex;
+  margin: auto;
+  width: 80%;
+  align-items: center;
+  overflow-y: auto;
+  
+}
+
+
+// Image Grid
+.gallery {
+  display: grid;
+  grid-gap: 1px;
+  grid-template-columns: repeat(5, minmax(150px, 1fr));
+}
+
+.gallery img {
+  width: 100%;
+  margin: 0px 1px;
+  transition: all .1s ease-in-out; 
+  border-radius: 5px;
+  border: 2px solid rgba(0, 0, 0, 0.1)
+}
+
+.gallery img:hover {
+  transform: scale(1.1);
+  z-index: 100;
+  border: 2px solid hsla(30, 100%, 60%, 1)
+}
+
+.gallery_container {
+  padding: 2%;
+  background: hsl(0, 0%, 97%);
+  margin: 4px;
+  padding-top: 1px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+  overflow-y: auto;
+}
+
+
+.viz_opts {
+  display: flex;
+  margin: 8px 0px;
+}
+
+.viz_opts input {
+  width: 100%;
+}
+
+.viz_class {
+  margin: auto 8px !important;
+}
+
+.viz_btns {
+  display: flex;
+  flex-direction: column;
+  margin: 0px 8px;
+}
+
+.viz_container {
+  display: flex;
+}
