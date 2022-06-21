@@ -19,7 +19,11 @@ removePathAccents: true
 ############################
 ## MODULES
 ############################
-
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_
 module:
   imports:
     - path: github.com/loup-brun/hugo-cite

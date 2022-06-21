@@ -198,4 +198,4 @@ projects: []
 
 {{< bibliography cited >}}
 
-<script type="application/javascript" src="ufpr.js"></script>
+<script type="module" src="ufpr.js"></script>
