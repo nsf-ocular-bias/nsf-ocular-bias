@@ -10,6 +10,9 @@ main:
   - name: people
     url: people
     weight: 30
+  - name: updates
+    url: updates
+    weight: 35
   - name: events
     url: event
     weight: 40

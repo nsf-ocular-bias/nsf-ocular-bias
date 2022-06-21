@@ -15,7 +15,7 @@ font_size: L
 site_type: Organization
 local_business_type: ''
 org_name: ''
-description: ocular bias (NSF Project)
+description: bias (NSF Project)
 twitter: ''
 
 # Contact (edit or remove options as required)
@@ -51,7 +51,7 @@ main_menu:
   show_language: true
   show_day_night: true
   show_search: true
-  highlight_active_link: false
+  highlight_active_link: true
 
 # Localization
 
@@ -96,6 +96,7 @@ comments:
     page: true
     post: true
     docs: true
+    updates: true
     project: true
     publication: true
     talk: true

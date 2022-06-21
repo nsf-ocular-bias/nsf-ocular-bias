@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: ocular bias (NSF Project) # Website name
+title: bias (NSF Project) # Website name
 baseurl: '' # Website URL
 copyright: '© {year} VCBSL, Wichita State University' # Footer text, e.g. '© {year} Me'
 
@@ -22,6 +22,7 @@ removePathAccents: true
 
 module:
   imports:
+    - path: github.com/loup-brun/hugo-cite
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy
   hugoVersion:
