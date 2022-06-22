@@ -1,6 +1,6 @@
 ---
 
-title: Page Under Construction !!!!
+title: Events
 subtitle: Recent & Upcoming Events
 
 # View.

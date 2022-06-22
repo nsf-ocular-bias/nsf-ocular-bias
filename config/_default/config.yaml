@@ -3,8 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: bias (NSF Project) # Website name
-baseurl: '' # Website URL
+title: NSF Project # Website name
+# baseurl: 'https://sreerajramachandran.github.io/nsf' # Website URL
+baseurl: ''
 copyright: '© {year} VCBSL, Wichita State University' # Footer text, e.g. '© {year} Me'
 
 ############################

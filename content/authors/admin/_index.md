@@ -67,4 +67,4 @@ user_groups:
 - Researchers
 ---
 
-Sreeraj Ramachandran is a PhD scholar at the Vision Computing and Biometrics Security Lab, Wichita State University. His research include Computer Vision, Biometrics, Bias AI, GANs and adversarial Attacks.
+Sreeraj Ramachandran is a Graduate Research Assistant at the Vision Computing and Biometrics Security Lab, Wichita State University. His research include Computer Vision, Biometrics, Bias AI, GANs and adversarial Attacks.

@@ -14,14 +14,13 @@ font_size: L
 
 site_type: Organization
 local_business_type: ''
-org_name: ''
-description: bias (NSF Project)
+org_name: 'Probing Fairness of Ocular Biometrics Methods Across Demographic Variations'
+description: NSF Project
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: sxramachandran2@shockers.wichita.edu
-phone: 888 888 88 88
+email: ajita.rattani@wichita.edu
 address:
   street: 1845 Fairmount St
   city: Wichita
@@ -32,9 +31,6 @@ address:
   latitude: '37.7208036'
   longitude: '-97.293674'
 directions: Jabara Hall
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
 appointment_url: ''
 contact_links:
 #  - icon: comments
