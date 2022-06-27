@@ -70,11 +70,12 @@ reading_time: true
 section_pager: false
 sharing: true
 copyright_license:
-  enable: false
+  enable: true
   allow_derivatives: false
-  share_alike: true
+  share_alike: false
   allow_commercial: false
-  notice: 'This work is licensed under {license}'
+  notice: 'This work is supported from a National Science Foundation (NSF) SaTC Award #2129173 on Probing Fairness of Ocular
+Biometrics Methods Across Demographic Variations'
 plugins_js: []
 avatar:
   gravatar: false

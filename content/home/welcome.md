@@ -19,6 +19,7 @@ design:
 
 <br>
 
-An NSF Funded Project
+This work is supported from a National Science Foundation (NSF) SaTC Award #2129173 on Probing Fairness of Ocular
+Biometrics Methods Across Demographic Variations
 
 ![Logo](/images/logo.png)

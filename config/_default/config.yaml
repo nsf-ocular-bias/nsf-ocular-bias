@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: NSF Project # Website name
-# baseurl: 'https://sreerajramachandran.github.io/nsf' # Website URL
+# baseurl: 'https://nsf-ocular-bias.github.io/' # Website URL
 baseurl: ''
 copyright: '© {year} VCBSL, Wichita State University' # Footer text, e.g. '© {year} Me'
 
