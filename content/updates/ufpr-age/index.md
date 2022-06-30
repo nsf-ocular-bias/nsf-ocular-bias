@@ -43,7 +43,7 @@ projects: []
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
 
-<table class="table text-center">
+<table class="table text-center table-mod">
 <caption class="text-center">TABLE I: EER and FNMR at 0.01 and 0.1 FMR for user authentication using CNN models for Left (L), Right (R) ocular region,and their score-level fusion (L+R) for Young, Middle-Aged and Older adults evaluated on balanced version of UFPR ocular datasets.</caption>
 <thead>
   <tr>
@@ -223,7 +223,7 @@ projects: []
 <br>
 
  
-<table class="table text-center">
+<table class="table text-center table-mod">
 <caption class="text-center">TABLE II: Accuracy of CNN-based Gender Classification on Left Ocular Region among Young (18 to 39 years), Middle (40
 to 59 years) and Older Adults (60 to 79 years).
 </caption>
@@ -285,7 +285,7 @@ to 59 years) and Older Adults (60 to 79 years).
 </table>
 
 <br>
-<table class="table text-center">
+<table class="table text-center table-mod">
 <caption class="text-center">TABLE III: Accuracy of the CNN-based Gender Classification on Right Ocular Region among Young (18 to 39 years), Middle
 (40 to 59 years) and Older Adults (60 to 79 years).</caption>
 <thead>
@@ -345,7 +345,7 @@ to 59 years) and Older Adults (60 to 79 years).
 </tbody>
 </table>
 <br>
-<table class="table text-center">
+<table class="table text-center table-mod">
 <caption class="text-center">TABLE IV: Exact and 1-off accuracies of Age-group Classification for Young Adults</caption>
 <thead>
   <tr>
@@ -394,7 +394,7 @@ to 59 years) and Older Adults (60 to 79 years).
 </table>
 
 <br>
-<table class="table text-center">
+<table class="table text-center table-mod">
 <caption class="text-center">TABLE V: Exact and 1-off accuracies of Age-group Classification for Middle-Aged Adults.</caption>
 <thead>
   <tr>
@@ -443,7 +443,7 @@ to 59 years) and Older Adults (60 to 79 years).
 </table>
 
 <br>
-<table class="table text-center">
+<table class="table text-center table-mod">
 <caption class="text-center">TABLE VI: Exact and 1-off accuracies of Age-group Classification for Older Adults.</caption>
 <thead>
   <tr>
@@ -490,7 +490,7 @@ to 59 years) and Older Adults (60 to 79 years).
   </tr>
 </tbody>
 </table>
----
+
 
 ## References
 
