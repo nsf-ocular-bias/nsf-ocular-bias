@@ -9,7 +9,7 @@ summary: ""
 author: "Sreeraj Ramachandran"
 tags: []
 categories: []  
-date: 2022-06-01T11:35:52-05:00
+date: 2022-05-02T11:35:52-05:00
 draft: false
 reading_time: true
 profile: true
@@ -54,11 +54,11 @@ projects: []
     <td class="tg-baqh">96.51</td>
     <td class="tg-baqh">88.88</td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td class="tg-0lax">East Asian</td>
     <td class="tg-0lax">26.50</td>
     <td class="tg-0lax">72.72</td>
-  </tr>
+  </tr> -->
   <tr>
     <td class="tg-0lax">Black</td>
     <td class="tg-0lax">78.57</td>
