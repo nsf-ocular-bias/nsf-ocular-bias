@@ -136,9 +136,14 @@ to 59 years) and Older Adults (60 to 79 years).
 
 <br>
 
-![](imgs/4.png)
+- Middle Aged adults slightly outperformed the other two groups in gender classification by about 1% − 2%.
+- Possible explanation: Stable and distinct gender cues for middle aged adults when compared to young and older adults.
+- Younger adult population performed the best in age classification by about 25%.
+- This could be due to distinct variation in the features attributed to the growing stage of the youth population over middle-aged and older adults
+
 ## Across Race
 ### VISOB + Notredame- Ocular RGB
+
 
 <table class="table text-center table-mod">
 <caption class="text-center">TABLE II: Gender Classification results across race groups - Ocular Datasets.</caption>
@@ -183,8 +188,13 @@ to 59 years) and Older Adults (60 to 79 years).
 </tbody>
 </table>
 
+- South Asians and Caucasians overall works better. 
+- This make sense since it contains the majority of the dataset
+
 ## Face VS Ocular
 ### FlickrFaceHQ-Aging - RGB
+- Face performs better than Ocular in Gender Classification on RGB
+- This may be because of the low quality of the crop
 
 <table class="table text-center table-mod   ">
 <caption class="text-center">TABLE III: Gender Classification results across Face vs Periocular on FFHQ-Aging.</caption>
@@ -214,7 +224,8 @@ to 59 years) and Older Adults (60 to 79 years).
 ![Notredame Face](imgs/notredame_face.jpg)
 #### Ocular
 ![Notredame Ocular](imgs/across_models_notredame.png)
-
+- Face performs better than Ocular in Gender Classification on NIR
+- This may be because of the low quality of the crop
 
 # Subject Verification
 ![Subject Verification](imgs/subject_verification.png)
@@ -423,3 +434,6 @@ to 59 years) and Older Adults (60 to 79 years).
 </tbody>
 </table>
 
+- Younger adults obtained performance identical to middle-aged individuals in user verification. 
+- Older adults’ performance differs slightly in terms of EER with only a 1% decrease, but the performance dropped at lower FMR points. 
+- The possible reason could be due to likely inferior quality of image capture, and relatively higher inter-class similarity due to wrinkles and folds on the skin.
