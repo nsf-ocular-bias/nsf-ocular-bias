@@ -128,9 +128,15 @@ This page features condensed results of all the analysis that was done.
 
 ## Across Device - VIS
 ![Updates](imgs/Slide42.JPG)
+![Updates](imgs/device%20(1).JPG)
+![Updates](imgs/device%20(2).JPG)
+![Updates](imgs/device%20(3).JPG)
 
 ## Across Lighting - VIS  
 ![Updates](imgs/Slide43.JPG)
+![Updates](imgs/lighting%20(1).JPG)
+![Updates](imgs/lighting%20(2).JPG)
+![Updates](imgs/lighting%20(3).JPG)
 
 ## Across Spectrum
 ![Updates](imgs/Slide44.JPG)

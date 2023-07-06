@@ -1,14 +1,13 @@
 ---
-title: "Investigating Fairness of Ocular Biometrics Among Young, Middle-Aged, and Older Adults"
+title: "Deep Generative Views to Mitigate Gender Classification Bias Across Gender-Race Groups"
 authors:
-- Anoop Krishnan
-- Ali Almadan
+- Sreeraj Ramachandran
 - Ajita Rattani
-date: "2021-10-13T00:00:00Z"
+date: "2022-08-17T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-10-13T00:00:00Z"
+publishDate: "2022-08-17T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,12 +16,10 @@ publishDate: "2021-10-13T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE ICCST2021, 54th IEEE International Carnahan Conference on Security Technology - online*
-publication_short: In *IEEE ICCST2021*
+publication: In *Workshop on Understanding and Mitigrating Demographic Bias in Biometric Systems, International Conference on Pattern Recognition* At  Montreal, Canada
+publication_short: In *ICPR 2022*
 
-abstract: 'A number of studies suggest bias of the face biometrics, i.e., face recognition and soft-biometric estimation methods, across gender, race, and age-groups. There is a recent urge to investigate the bias of different biometric modalities toward the deployment of fair and trustworthy biometric solutions. Ocular biometrics has obtained increased attention from academia and industry due to its high accuracy, security, privacy, and ease of use in mobile devices. A recent study in $2020$ also suggested the fairness of ocular-based user recognition across males and females.
-This paper aims to evaluate the fairness of ocular biometrics in the visible spectrum among age-groups; young, middle, and older adults. Thanks to the availability of the latest large-scale $2020$ UFPR ocular biometric dataset, with subjects acquired in the age range $18$ - $79$ years, to facilitate this study. 
-Experimental results suggest the overall equivalent performance of ocular biometrics across gender and age-groups in user verification and gender-classification. Performance difference for older adults at lower false match rate and young adults was noted at user verification and age-classification, respectively. This could be attributed to inherent characteristics of the biometric data from these age-groups impacting specific applications, which suggest a need for advancement in sensor technology and software solutions.'
+abstract: 'Published studies have suggested the bias of automated face-based gender classification algorithms across gender-race groups. Specifically , unequal accuracy rates were obtained for women and dark-skinned people. To mitigate the bias of gender classifiers, the vision community has developed several strategies. However, the efficacy of these mitiga-tion strategies is demonstrated for a limited number of races mostly, Caucasian and African-American. Further, these strategies often offer a trade-off between bias and classification accuracy. To further advance the state-of-the-art, we leverage the power of generative views, structured learning, and evidential learning towards mitigating gender classification bias. We demonstrate the superiority of our bias mitigation strategy in improving classification accuracy and reducing bias across gender-racial groups through extensive experimental validation, resulting in state-of-the-art performance in intra-and cross dataset evaluations.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -31,11 +28,14 @@ tags:
 - Fairness
 - Bias
 - Ocular
-- Analysis
+- Face
+- Mitigation
+- Generative
+
 featured: true
 
 
-url_pdf: https://www.researchgate.net/publication/355081681_Investigating_Fairness_of_Ocular_Biometrics_Among_Young_Middle-Aged_and_Older_Adults
+url_pdf: https://arxiv.org/pdf/2208.08382.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
@@ -47,7 +47,9 @@ url_pdf: https://www.researchgate.net/publication/355081681_Investigating_Fairne
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Illustration of this Study on Fairness of the Ocular BiometricsAmong Young, Middle and Older Adults.'
+  caption: 'Input samples are projected into a latent space and augmentations are
+generated. The loss function minimizes the distance between the embedding
+along with the classification loss.'
   focal_point: ""
   preview_only: false
 
@@ -67,8 +69,43 @@ projects:
 slides:
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+![Updates](imgs/1.JPG)
+![Updates](imgs/icpr%20(2).JPG)
+![Updates](imgs/icpr%20(3).JPG)
+![Updates](imgs/icpr%20(4).JPG)
+![Updates](imgs/icpr%20(5).JPG)
+![Updates](imgs/icpr%20(6).JPG)
+![Updates](imgs/icpr%20(7).JPG)
+![Updates](imgs/icpr%20(8).JPG)
+![Updates](imgs/icpr%20(9).JPG)
+![Updates](imgs/icpr%20(10).JPG)
+![Updates](imgs/icpr%20(11).JPG)
+![Updates](imgs/icpr%20(12).JPG)
+![Updates](imgs/icpr%20(13).JPG)
+![Updates](imgs/icpr%20(14).JPG)
+![Updates](imgs/icpr%20(15).JPG)
+![Updates](imgs/icpr%20(16).JPG)
+![Updates](imgs/icpr%20(17).JPG)
+![Updates](imgs/icpr%20(18).JPG)
+![Updates](imgs/icpr%20(19).JPG)
+![Updates](imgs/icpr%20(20).JPG)
+![Updates](imgs/icpr%20(21).JPG)
+![Updates](imgs/icpr%20(22).JPG)
+![Updates](imgs/icpr%20(23).JPG)
+![Updates](imgs/icpr%20(24).JPG)
+![Updates](imgs/icpr%20(25).JPG)
+![Updates](imgs/icpr%20(26).JPG)
+![Updates](imgs/icpr%20(27).JPG)
+![Updates](imgs/icpr%20(28).JPG)
+![Updates](imgs/icpr%20(29).JPG)
+![Updates](imgs/icpr%20(30).JPG)
+![Updates](imgs/icpr%20(31).JPG)
+![Updates](imgs/icpr%20(32).JPG)
+![Updates](imgs/icpr%20(33).JPG)
+![Updates](imgs/icpr%20(34).JPG)
+
+ {{% callout note %}}
+Click the *Cite* button above to import publication metadata into their reference management software.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+<!-- Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --> 
