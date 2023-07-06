@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Results"
+title: "Results - Tables and Charts"
 subtitle: ""
 type: updates
 layout: single
